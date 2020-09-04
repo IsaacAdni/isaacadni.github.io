@@ -1,0 +1,61 @@
+body {
+	font-family: 'PT Serif', serif;
+}
+
+a {
+	color: #222;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #000000;
+}
+
+a.youtube {
+	color: #FF0000;
+}
+
+a.youtube:hover {
+	color: #800000;
+}
+
+a.facebook {
+	color: #4267B2;
+}
+
+a.facebook:hover {
+	color: #000033;
+}
+
+a.twitter {
+	color: #1DA1F2;
+}
+
+a.twitter:hover {
+	color: #002273;
+}
+
+a.instagram {
+	color: #F77737;
+}
+
+a.instagram:hover {
+	color: #780000;
+}
+
+
+#wrap {
+	width: 100%;
+	max-width: 620px;
+	margin: auto;
+	position: relative;
+	padding: 0px 1rem;
+	box-sizing: border-box;
+}
+
+#content {
+	padding: calc(20px + 1rem) 1rem 2rem 2rem;
+	color: #222;
+	font-size: 1.8rem;
+	line-height: 1.5;
+}
