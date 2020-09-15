@@ -55,7 +55,7 @@ a.instagram:hover {
 	box-sizing: border-box;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 560px) {
 	#wrap {
 		padding-top: 0.5rem;
 	}
