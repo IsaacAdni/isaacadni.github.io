@@ -43,12 +43,6 @@ a.instagram:hover {
 	color: #780000;
 }
 
-@media (max-width: 800px) {
-	#wrap {
-		padding-top: 0.5rem;
-	}
-}
-
 #wrap {
 	width: 100%;
 	max-width: 560px;
@@ -59,4 +53,10 @@ a.instagram:hover {
 	font-size: 1.8rem;
 	line-height: 1.5;
 	box-sizing: border-box;
+}
+
+@media (max-width: 800px) {
+	#wrap {
+		padding-top: 0.5rem;
+	}
 }
